@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android">
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/rectangle">
+    <gradient
+        android:endColor="@color/tooltip1"
+        android:startColor="@color/tooltip1"
+        android:angle="0"></gradient>
+    <corners
+        android:radius="100dp"></corners>
+</shape>
+</inset>
